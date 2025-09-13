@@ -1,0 +1,14 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<fingerprint>
+  <timestamp>2025-09-13 17:32:51.880 UTC</timestamp>
+  <md5sum>575a3f9d2d17978c4e222fb2ea8525df</md5sum>
+  <fileName>Credential id=c715b386-3370-4fe2-ad83-8d4be408c4f2 name=tushar/******</fileName>
+  <usages/>
+  <facets>
+    <com.cloudbees.plugins.credentials.fingerprints.NodeCredentialsFingerprintFacet plugin="credentials@1447.v4cb_b_539b_5321">
+      <timestamp>1757784803518</timestamp>
+      <nodeName>host</nodeName>
+      <timestamp0>1757784771859</timestamp0>
+    </com.cloudbees.plugins.credentials.fingerprints.NodeCredentialsFingerprintFacet>
+  </facets>
+</fingerprint>
